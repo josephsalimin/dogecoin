@@ -1,6 +1,6 @@
 # Garudacoin Core [GARUDA, G]
 
-TBD
+JUST FUN PROJECT TO LEARN BLOCKCHAIN
 
 ## License ️
 Garudacoin Core is released under the terms of the MIT license. See
